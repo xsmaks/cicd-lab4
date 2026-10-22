@@ -35,8 +35,8 @@
 |------|---------|-----------|
 | 1 | `git switch -c feature/...` | нова гілка для змін |
 | 2 | `git push -u origin feature/...` | гілка на GitHub |
-| 3 | `gh pr create` | pull request у `main` |
-| 4 | рецензія і злиття | зміни потрапляють у `main` |
+| 3 | `gh pr create` | pull request у `master` |
+| 4 | рецензія і злиття | зміни потрапляють у `master` |
 
 ## Приклади форматування Markdown
 
